@@ -1,4 +1,4 @@
-let input = 'I want to play The Last of Us Part 2.';
+let input = 'I want to watch some basketball.';
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 let resultArray = [];
 
